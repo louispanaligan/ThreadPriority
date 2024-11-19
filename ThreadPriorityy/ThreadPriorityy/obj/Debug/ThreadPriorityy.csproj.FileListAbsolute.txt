@@ -1,0 +1,10 @@
+C:\Users\louis\source\repos\ThreadPriorityy\ThreadPriorityy\bin\Debug\ThreadPriorityy.exe.config
+C:\Users\louis\source\repos\ThreadPriorityy\ThreadPriorityy\bin\Debug\ThreadPriorityy.exe
+C:\Users\louis\source\repos\ThreadPriorityy\ThreadPriorityy\bin\Debug\ThreadPriorityy.pdb
+C:\Users\louis\source\repos\ThreadPriorityy\ThreadPriorityy\obj\Debug\ThreadPriorityy.csproj.AssemblyReference.cache
+C:\Users\louis\source\repos\ThreadPriorityy\ThreadPriorityy\obj\Debug\ThreadPriorityy.frmTrackThread.resources
+C:\Users\louis\source\repos\ThreadPriorityy\ThreadPriorityy\obj\Debug\ThreadPriorityy.Properties.Resources.resources
+C:\Users\louis\source\repos\ThreadPriorityy\ThreadPriorityy\obj\Debug\ThreadPriorityy.csproj.GenerateResource.cache
+C:\Users\louis\source\repos\ThreadPriorityy\ThreadPriorityy\obj\Debug\ThreadPriorityy.csproj.CoreCompileInputs.cache
+C:\Users\louis\source\repos\ThreadPriorityy\ThreadPriorityy\obj\Debug\ThreadPriorityy.exe
+C:\Users\louis\source\repos\ThreadPriorityy\ThreadPriorityy\obj\Debug\ThreadPriorityy.pdb
